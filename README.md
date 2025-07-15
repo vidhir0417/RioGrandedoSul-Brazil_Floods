@@ -6,7 +6,7 @@ This document focuses on assessing the spatial extent and environmental impacts 
 
 The primary objective of this project was to apply remote sensing techniques to:
 * Assess the spatial extent and environmental impacts of the severe floods in Rio Grande do Sul between late April and mid-May 2024.
-* Generate a detailed Land Cover Land Use (LCLU) map distinguishing water bodies, urban zones, vegetation and bare soil before and after the flood event.
+* Generate a detailed Land Cover Land Use (LCLU) map distinguishing water bodies, urban zones, vegetation and bare soil *before* and *after* the flood event.
 * Demonstrate the effectiveness of satellite remote sensing as a cost-effective and timely tool for disaster monitoring.
 * Provide critical insights to aid emergency response, recovery planning, and future risk mitigation efforts.
 
@@ -23,7 +23,7 @@ The project's study area is the state of **Rio Grande do Sul** in southern Brazi
 
 ## Methodology
 
-The project followed a systematic approach for image acquisition, analysis, classification and accuracy assessment, primarily using ArcGIS Pro.
+A systematic approach was followed for image acquisition, analysis, classification and accuracy assessment, primarily using ArcGIS Pro.
 
 ### 1. Image Acquisition
 * **Satellite Mission:** Sentinel-2 (Copernicus Programme) L2A images.
@@ -63,7 +63,7 @@ The project followed a systematic approach for image acquisition, analysis, clas
 
 ## Conclusion
 
-The project effectively utilized Sentinel-2 imagery and GIS methods to map the 2024 floods in Rio Grande do Sul, providing reliable results through supervised classification. The use of NDWI and NDVI indices significantly enhanced flood detection and vegetation analysis. These findings underscore the value of satellite remote sensing for timely flood monitoring and its support for future disaster management and planning.
+Sentinel-2 imagery and GIS methods were effectively utilized to map the 2024 floods in Rio Grande do Sul, providing reliable results through supervised classification. The use of NDWI and NDVI indices significantly enhanced flood detection and vegetation analysis. These findings underscore the value of satellite remote sensing for timely flood monitoring and its support for future disaster management and planning.
 
 ## References
 
